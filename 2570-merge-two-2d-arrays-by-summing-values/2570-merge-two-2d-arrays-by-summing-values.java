@@ -1,0 +1,44 @@
+class Solution {
+    public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
+          int i = 0, j = 0;                     
+        List<int[]> result = new ArrayList<>(); 
+
+        
+        while (i < nums1.length && j < nums2.length) {
+
+            if (nums1[i][0] == nums2[j][0]) {
+                // same id → add values
+                result.add(new int[] {
+                    nums1[i][0],
+                    nums1[i][1] + nums2[j][1]
+                });
+                i++;
+                j++;
+
+            } else if (nums1[i][0] < nums2[j][0]) {
+                // smaller id comes first
+                result.add(nums1[i]);
+                i++;
+
+            } else {
+                result.add(nums2[j]);
+                j++;
+            }
+        }
+
+        // add remaining elements from nums1
+        while (i < nums1.length) {
+            result.add(nums1[i]);
+            i++;
+        }
+
+        // add remaining elements from nums2
+        while (j < nums2.length) {
+            result.add(nums2[j]);
+            j++;
+        }
+
+        // convert List to 2D array
+        return result.toArray(new int[result.size()][2]);
+    }
+}
