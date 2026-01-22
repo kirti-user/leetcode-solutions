@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kirti-user/leetcode-solutions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/kirti-user/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -36,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kirti-user/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
