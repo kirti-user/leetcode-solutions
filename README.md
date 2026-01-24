@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kirti-user/leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kirti-user/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/kirti-user/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -25,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kirti-user/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
