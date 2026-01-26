@@ -51,4 +51,8 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kirti-user/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/kirti-user/leetcode-solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
