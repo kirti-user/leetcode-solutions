@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti-user/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kirti-user/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/kirti-user/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -40,6 +41,7 @@
 | [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti-user/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kirti-user/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kirti-user/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +61,7 @@
 | [0015-3sum](https://github.com/kirti-user/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kirti-user/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/kirti-user/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -75,4 +78,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirti-user/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
