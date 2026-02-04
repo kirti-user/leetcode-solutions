@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti-user/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kirti-user/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0845-longest-mountain-in-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/kirti-user/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -45,6 +46,7 @@
 | [0283-move-zeroes](https://github.com/kirti-user/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0845-longest-mountain-in-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/kirti-user/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -93,4 +95,12 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
