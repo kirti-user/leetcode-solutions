@@ -7,7 +7,7 @@ class Solution {
         arr[i][0] = nums[i];
         arr[i][1] = i;
        }
-
+       // sort the array
        Arrays.sort(arr, (a,b) -> a[0] - b[0]) ;
        
        int left = 0; int right = n-1;
