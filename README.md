@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirti-user/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kirti-user/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kirti-user/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/kirti-user/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Enumeration
 |  |
 | ------- |
