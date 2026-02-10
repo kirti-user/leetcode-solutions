@@ -19,6 +19,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/kirti-user/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/kirti-user/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/kirti-user/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/kirti-user/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kirti-user/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/kirti-user/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/kirti-user/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kirti-user/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -101,6 +104,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/kirti-user/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0976-largest-perimeter-triangle](https://github.com/kirti-user/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Monotonic Stack
 |  |
 | ------- |
