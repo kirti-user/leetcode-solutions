@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kirti-user/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kirti-user/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/kirti-user/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
@@ -69,6 +70,7 @@
 | [0016-3sum-closest](https://github.com/kirti-user/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/kirti-user/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/kirti-user/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kirti-user/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -97,6 +99,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/kirti-user/leetcode-solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kirti-user/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
