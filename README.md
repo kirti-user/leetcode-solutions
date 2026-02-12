@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kirti-user/leetcode-solutions/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/kirti-user/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kirti-user/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/kirti-user/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kirti-user/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kirti-user/leetcode-solutions/tree/master/0088-merge-sorted-array) |
