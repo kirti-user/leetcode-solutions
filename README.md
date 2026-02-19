@@ -97,6 +97,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kirti-user/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/kirti-user/leetcode-solutions/tree/master/0179-largest-number) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kirti-user/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kirti-user/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kirti-user/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kirti-user/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kirti-user/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
