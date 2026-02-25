@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/kirti-user/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -137,4 +138,12 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kirti-user/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kirti-user/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
